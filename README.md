@@ -3,7 +3,7 @@
 
 ***
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/asigalov61/awesome-midi-repos/pulls) [![Add repository](https://img.shields.io/badge/Add%20repository-Submit%20PR-blue.svg)](https://github.com/asigalov61/awesome-midi-repos/new/main?filename=README.md) [![License: MIT](https://img.shields.io/badge/license-Apache-blue.svg)](https://github.com/asigalov61/awesome-midi-repos/blob/main/LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/asigalov61/awesome-midi-repos/pulls) [![Add repository](https://img.shields.io/badge/Add%20repository-Submit%20PR-blue.svg)](https://github.com/asigalov61/awesome-midi-repos/new/main?filename=README.md) [![License: Apache](https://img.shields.io/badge/license-Apache-blue.svg)](https://github.com/asigalov61/awesome-midi-repos/blob/main/LICENSE)
 
 ***
 
